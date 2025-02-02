@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ronan
 
 # 💫 About Me:
-I'm a 4th year computer science, with a passion for software engineering
+I'm a comp sci student at the University of Hawai'i at Manoa, When I'm not coding, people occasionally mistake me for Ryan Reynolds
 
 
 ## 🌐 Socials:
