@@ -1,7 +1,7 @@
 ## Howzit 👋 I'm Ronan
 
 # 💫 About Me:
-I'm a comp sci student at the University of Hawai'i at Manoa, who works part time as a web designer and an IT Student Assistant. When I'm not on my laptop, people occasionally mistake me for Ryan Reynolds
+I'm a comp sci student at the University of Hawai'i at Manoa, who works part time as a web designer and an IT Student Assistant. When I'm not working, people occasionally mistake me for Ryan Reynolds
 
 
 ## 🌐 Socials:
